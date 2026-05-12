@@ -13,5 +13,5 @@
 
 #Keyboard Contols
 - q → Quit
-- + → Increase brush size
-- - → Decrease brush size
+- `+` → Increase brush size
+- `-` → Decrease brush size
